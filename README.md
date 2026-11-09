@@ -1,6 +1,4 @@
-# TypeScript & OOP Assignment
-
-## Assignment Overview
+# Assignment Overview
 
 This repository contains my solutions for **Module 4: Assignment-1 (Problem Solving with TypeScript & OOP)**. The assignment covers core TypeScript concepts from Modules 1, 2, and 3, including basic types, optional/default/rest parameters, readonly tuples, interfaces, type narrowing, generics, Promises, and Object-Oriented Programming.
 
