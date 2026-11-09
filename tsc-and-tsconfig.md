@@ -58,3 +58,7 @@ Sample tsconfig.json
 	}
 }
 ```
+
+## Conclusion
+
+In short, the `tsc` compiler checks our code for type errors and strips away all types to produce runnable JavaScript. At the same time, `tsconfig.json` gives us full control over the compiler rules and output structure. Together, they help us write safe TypeScript code during development and deliver clean JavaScript for production.
